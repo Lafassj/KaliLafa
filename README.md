@@ -8,11 +8,13 @@ BSPWM para Kali personalizado con un tema de ZLcube modificado, perfecto para re
 
 #Uso del Script 
 
+
+```bash
 cd KaliLafa
-
 chmod +x install.sh
-
 ./install.sh
+```
+
 
 #Este Script esta diseñado para solo funcionar en Kali Linux.
 
