@@ -50,7 +50,7 @@ Si necesitas más ayuda con la configuración pica en la imagen que te lleva al 
 [![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
 
 # shortcuts
-
+```bash
 ===========================================================================================================
 windows + enter abre terminal 
 windows + w cierra terminal
@@ -65,7 +65,7 @@ control shift w cerrar pestaña de terminal
 windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
 windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
 ============================================================================================================
-
+```
 
 
 
