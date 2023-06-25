@@ -1,4 +1,4 @@
-# KaliLafa - Minimalista
+<h1 align="center">Kali Linux Minimalistta</h1>
 ![image](https://github.com/Lafassj/KaliLafa/assets/131805585/e0645b42-57de-49a4-ae9b-1972797f0615)
 ![image](https://github.com/Lafassj/KaliLafa/assets/131805585/68451a12-9533-4466-b141-cff9994627f3)
 
