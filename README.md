@@ -5,9 +5,7 @@
 <img src="https://github.com/Lafassj/KaliLafa/assets/131805585/68451a12-9533-4466-b141-cff9994627f3">
 </p>
 
-
-#Uso del Script 
-
+# Uso del Script 
 
 ```bash
 cd KaliLafa
@@ -16,11 +14,11 @@ chmod +x install.sh
 ```
 Este Script esta diseñado para solo funcionar en Kali Linux
 
-#Wallpaper
+# Wallpaper
 
 El wallpaper lo puedes modificar cambiando el nombre en el bspwmrc
 
-#Nvim
+# Nvim
 
 Esta no esta incluida en el scripts
 
@@ -51,7 +49,7 @@ Si necesitas más ayuda con la configuración pica en la imagen que te lleva al 
 
 [![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
 
-#shortcuts
+# shortcuts
 
 ===========================================================================================================
 windows + enter abre terminal 
