@@ -1,10 +1,10 @@
-# KaliLafa - TEMA ARCADE
+# KaliLafa - Minimalista
+![image](https://github.com/Lafassj/KaliLafa/assets/131805585/e0645b42-57de-49a4-ae9b-1972797f0615)
+
 
 BSPWM para Kali personalizado con un tema de ZLcube modificado, perfecto para resolver mauqinas en HTB
 
-1.- Uso del Script 
-
-https://github.com/ZLCube/KaliBspwm.git
+#Uso del Script 
 
 cd KaliLafa
 
@@ -12,7 +12,7 @@ chmod +x install.sh
 
 ./install.sh
 
-Este Script esta diseñado para solo funcionar en Kali Linux.
+#Este Script esta diseñado para solo funcionar en Kali Linux.
 
 2.- Wallpaper
 
@@ -49,14 +49,24 @@ Si necesitas más ayuda con la configuración pica en la imagen que te lleva al 
 
 [![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
 
-#===============================MIS-REDES==================================#
+#shortcuts
 
-En todos lados me pueden encontrar como @LafaSSJ
+===========================================================================================================
+windows + enter abre terminal 
+windows + w cierra terminal
+windows + d abre el buscador de aplicaciones
+windows hold mover libremente la ventana
+windows clic derecho reescalar libremente la ventana
+windows + alt + flechas escalar ventana
+windows + ctl + flechas mover ventana
+control + shift + t abre pestaña en terminal
+control shift alt t renombrar pestaña de terminal
+control shift w cerrar pestaña de terminal
+windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
+windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
+============================================================================================================
 
 
 
-
-
-#=========================================================================#
 
 
