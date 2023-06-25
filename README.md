@@ -14,15 +14,13 @@ cd KaliLafa
 chmod +x install.sh
 ./install.sh
 ```
+Este Script esta diseñado para solo funcionar en Kali Linux
 
-
-#Este Script esta diseñado para solo funcionar en Kali Linux.
-
-2.- Wallpaper
+#Wallpaper
 
 El wallpaper lo puedes modificar cambiando el nombre en el bspwmrc
 
-3.- Nvim
+#Nvim
 
 Esta no esta incluida en el scripts
 
