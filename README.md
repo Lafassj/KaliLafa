@@ -8,6 +8,7 @@
 # Uso del Script 
 
 ```bash
+git clone https://github.com/Lafassj/KaliLafa.git
 cd KaliLafa
 chmod +x install.sh
 ./install.sh
@@ -46,9 +47,9 @@ Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 S4vitar https://github.com/s4vitar
 
 
-Si necesitas más ayuda con la configuración pica en la imagen que te lleva al tutorial de ZLcube en su canal de YT:
+# Si necesitas más ayuda con la configuración pica en la imagen que te lleva al tutorial
 
-[![Watch the video](https://img.youtube.com/vi/CClVFk4CCic/default.jpg)](https://youtu.be/CClVFk4CCic)
+https://www.youtube.com/watch?v=Mk8rG-Eu0vI
 
 # shortcuts
 ```bash
