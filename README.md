@@ -23,7 +23,8 @@ El wallpaper lo puedes modificar cambiando el nombre en el bspwmrc
 Esta no esta incluida en el scripts
 
 
-UNA MENCION HONORIFICA A ZLcube y a sus compis Mr. Pr1ngl3s, y a xjacksx por su colaboración, Este script fue dise#ado por ellos yo solo modifique los dotfiles te dejo el enlace a los perfiles de cada uno de ellos.
+# UNA MENCION HONORIFICA 
+A ZLcube y a sus compis Mr. Pr1ngl3s, y a xjacksx por su colaboración, Este script fue dise#ado por ellos yo solo modifique los dotfiles te dejo el enlace a los perfiles de cada uno de ellos.
 
 ZLCube en todos lados
 
